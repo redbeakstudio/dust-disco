@@ -15,13 +15,13 @@ Extracted from aged iris roots.
 The Iris flower is connected with Iris, the Goddess of Rainbows.
 A vulnerable goddess, Iris lives at the edge of clouds, and knows of storms ahead.
 
-Lasts overnight: purple sour milk scent is stronger. 
+Lasts overnight: purple sour milk scent is stronger.
 
 ## Dust Disco
 Kicking off Pluto's return (the revolution) it's time burn the Man.
 And we need to dance together again.
 
-Conveniently this month, it's time for Burning Man & this time it's virtual.
+Conveniently, it's time for Burning Man & this time it's virtual.
 No expense to set up a camp, no real dust, and we can attend from home. The theme is "the Multiverse."
 
 We decided to create a virtual camp, and to also extend our invitation to scent friends attending Scent Week as well as animators and illustrators attending Lightbox.
