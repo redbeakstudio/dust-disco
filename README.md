@@ -58,6 +58,9 @@ We are building a dust-scented disco set in an illustrated desert landscape. We 
 Our camp is casual and meant to be fun, playful, and focus on scent.
 We will invite friends new & old to join us.
 
+## Scheduling
+We will post an invite to friends when we are ready. There will be an Airtable sign up form though be aware the experience might not work & will break, but we will try to tell you. Otherwise we expect to have some events for a few hours in mid-September.
+
 ## Dust Scavenger Hunt
 Our focus is multi-sensory and the theme is Orris/Dust this month (Virgo, an earth sign, moving into the fall in the Northern Hemisphere & spring in the Southern.)
 
