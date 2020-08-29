@@ -9,6 +9,7 @@ The Quarter Moon Night scent theme for Virgo season 2020 is **Orris**.
 
 Orris root comes from the Iris.
 
+### Organoleptic notes (how it smells)
 "Orris is fine and full of violet-blue waves. It feels like a soft powder and has a light tickling which can swerve into fresh baby-spit up. Lightly sour. It has a wooden moment set in a wet cedar chest.
 Green and some bitter leather."
 Orris root at 10% on a paper strip, August 28, 2020, described by Chach.
