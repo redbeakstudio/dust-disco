@@ -36,7 +36,7 @@ We will invite friends new & old to join us.
 There are a mix of challenges we are working on with creative multi-sensory immersive tech.
 
 * Organize a dusty-scent scavenger hunt.
-* We are going to try to pipe a p5xr script hosted on Dropbox through an Aframe/ThreeJS bridge to render some processing art as a light show in an adapted instance of Mozilla Hubs in a 'composed scene.'
+* We are going to try to pipe a p5xr script hosted on Dropbox through an Aframe/ThreeJS bridge to render some processing art as a light show in a social VR scene in Storybox. (Scrapped the idea of using Hubs because the cloud service is several servers & most of what we needed is found in networked-aframe component.)
 * We are exporting Grease Pencil illustrations straight to social VR & starting a Blender plugin for that purpose. Keep working on this.
 * Figuring out the best way to have a DJ stream music for a social VR experience for WebXR.
 * Create a p5js dust-storm for the party.
