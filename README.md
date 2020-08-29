@@ -58,6 +58,16 @@ We are building a dust-scented disco set in an illustrated desert landscape. We 
 Our camp is casual and meant to be fun, playful, and focus on scent.
 We will invite friends new & old to join us.
 
+## Dust Scavenger Hunt
+Our focus is multi-sensory and the theme is Orris/Dust this month (Virgo, an earth sign, moving into the fall in the Northern Hemisphere & spring in the Southern.)
+
+We want to share experiences with scent molecules, and the easiest way to do that & rebuild our noses is to start noticing the scents already around us. Since Burning Man takes place in the desert that was once home to the Northern Pauite people, we want to notice the powdery dustiness of the Earth.
+
+### Dust
+1. Scent: Find some dusty items & smell them from a safe distance. Be careful to not inhale dust, as it can be irritating. We are thinking of looking for rocks, rubble, gravel, bricks, soil, dusty soil, flours, house dust.
+2. Texture: What (safe) household items have a dusty texture. This is an excuse to feel flour, sugar and other grainy textures.
+3. Taste: Not sure about this one yet.
+
 ## Challenges
 There are a mix of challenges we are working on with creative multi-sensory immersive tech.
 
