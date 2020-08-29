@@ -1,8 +1,10 @@
 ## Quarter Moon Nights
 Multisensory art club nights.
+Monthly scent-focused themes & project-based learning community.
+(Follow: Instagram #quartermoonnights, @redbeakstudio)
 
 ## Orris
-The Quarter Moon Night theme for Virgo season 2020 is **Orris**.
+The Quarter Moon Night scent theme for Virgo season 2020 is **Orris**.
 
 Orris root comes from the Iris.
 
@@ -10,12 +12,20 @@ Orris root comes from the Iris.
 Green and some bitter leather."
 Orris root at 10% on a paper strip, August 28, 2020, described by Chach.
 
-Extracted from aged iris roots.
+"Lasts overnight: purple sour milk scent is stronger." - August 29, 2020, Chach.
+
+Extracted from aged iris roots. https://en.wikipedia.org/wiki/Orris_root
 
 The Iris flower is connected with Iris, the Goddess of Rainbows.
 A vulnerable goddess, Iris lives at the edge of clouds, and knows of storms ahead.
 
-Lasts overnight: purple sour milk scent is stronger.
+## Orris Info
+* https://www.alchemy-works.com/herb_orris_root.html
+* https://www.herbco.com/c-282-orris-root.aspx
+* http://medicinalherbinfo.org/000Herbs2016/1herbs/orris-root/
+* https://www.youtube.com/watch?v=gvOMNBOXHq0
+* http://www.greekmedicine.net/A_Greek_and_Unani_Herbal/herb.php?id=15
+* https://mountainroseherbs.com/orris-root
 
 ## Dust Disco
 Kicking off Pluto's return (the revolution) it's time burn the Man.
@@ -24,7 +34,9 @@ And we need to dance together again.
 Conveniently, it's time for Burning Man & this time it's virtual.
 No expense to set up a camp, no real dust, and we can attend from home. The theme is "the Multiverse."
 
-We decided to create a virtual camp, and to also extend our invitation to scent friends attending Scent Week as well as animators and illustrators attending Lightbox.
+It's a technical challenge (& expense in that regard), but is also a technical challenge that can be performed over the regular Web & made accessible for future projects, so we decided to go for it & learn more about social WebXR.
+
+So, we decided to create a virtual camp. We will also extend our invitation to scent friends attending Scent Week as well as animators and illustrators attending Lightbox.
 
 ## Premise
 We are building a dust-scented disco set in an illustrated desert landscape. We hope to have some dancying fairy shrimp, stink bugs and other creatures. It's probably going to crash, we are learning. Learning is the point.
