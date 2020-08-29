@@ -28,6 +28,18 @@ A vulnerable goddess, Iris lives at the edge of clouds, and knows of storms ahea
 * https://www.youtube.com/watch?v=gvOMNBOXHq0
 * http://www.greekmedicine.net/A_Greek_and_Unani_Herbal/herb.php?id=15
 * https://mountainroseherbs.com/orris-root
+* http://www.thegoodscentscompany.com/data/ab1000861.html
+
+## Usage considerations
+### IFRA
+"IFRA Code of Practice Notification of the 49th Amendment to the IFRA Code of Practice
+Recommendation for orris rhizome absolute (iris pallida) usage levels up to: 8.0000 % in the fragrance concentrate."
+
+### GCMS Scientific articles
+https://www.researchgate.net/publication/233903089_Composition_of_Volatiles_from_Three_Iris_Species_of_Turkey
+
+### Sustainability
+? TBD
 
 ## Dust Disco
 Kicking off Pluto's return (the revolution) it's time burn the Man.
