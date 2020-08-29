@@ -2,6 +2,7 @@
 Multisensory art club nights.
 Monthly scent-focused themes & project-based learning community.
 (Follow: Instagram #quartermoonnights, @redbeakstudio)
+Stay tuned for calendar for rest of 2020.
 
 ## Orris
 The Quarter Moon Night scent theme for Virgo season 2020 is **Orris**.
