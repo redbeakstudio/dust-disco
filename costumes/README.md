@@ -11,7 +11,9 @@ Animated costumes: Creatures of the Dust
 * We can try to make some animated GLB files & "play" them
 * This is what we are going to try to do with the fairy shrimp & dancing stink bug
 
-Rough outline of how to make an animated costume (no promises it will work though!)
+Rough outline of how to make an animated costume
+(no promises it will work!)
+
 A. Create art in Blender
 Use timeline & "actions" to create key-framed animation (or stop motion animation)
 
